@@ -3,6 +3,7 @@
 * [Oğuz Senna](https://github.com/oguzsenna) - 2021719240
 * [Kemal Caner Ertam](https://github.com/ckertam) - 2021719207
 
+### [Project Presentation](https://docs.google.com/presentation/d/18J6gaz7TZYmVGwURuf3FvVyoS_g0DpVWzuPofSX6uYk/edit?usp=sharing)
 
 ## FaceMaskDetector
 In this project we aim to build a model that detects face masks and sunglasses from live feed.
