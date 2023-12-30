@@ -1,7 +1,7 @@
 # SWE 583 Computer Vision Term Project
 ## Contributors:
-* Oğuz Senna [https://github.com/oguzsenna]- 2021719240
-* Kemal Caner Ertam [https://github.com/ckertam]- 2021719207
+* [Oğuz Senna](https://github.com/oguzsenna) - 2021719240
+* [Kemal Caner Ertam](https://github.com/ckertam) - 2021719207
 
 
 ## FaceMaskDetector
