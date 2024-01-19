@@ -32,5 +32,5 @@ We used 2 different dataset for the project.
   * to open detector(live feed) write 'python glasses_detector.py' on the terminal
 * You can try different masks. Wear, unwear masks to see the models prediction on the live camera feed.
 
-
+Report: https://drive.google.com/file/d/1aN9uGXmGCn3Pv3N4uE6LJEeRokEy8yX5/view?usp=sharing 
 
